@@ -29,6 +29,14 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+```
+<img style="width: 192px; height: 324px" src="https://via.placeholder.com/192x324" />
+<img style="width: 188px; height: 324px" src="https://via.placeholder.com/188x324" />
+<img style="width: 183px; height: 324px" src="https://via.placeholder.com/183x324" />
+<img style="width: 180px; height: 324px" src="https://via.placeholder.com/180x324" />
+```
 # OUTPUT:
+![output](https://github.com/user-attachments/assets/96ab3781-9ccb-43b3-a60d-384336387644)
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
